@@ -1,2 +1,2 @@
 # CrossCode
-Neste repositório, possui todos os exercícios da Triadworks.
+Neste repositório, possui um exercicio de Agenda.
